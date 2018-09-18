@@ -1,0 +1,6 @@
+z/OS is a 64-bit-os for IBM mainframes produced by IBM. 
+z/OS supports stable mainframe systems and standards. 
+It also supports 64-bit Java, C, C++, and UNIX APIs 
+and applications. The Open Group certifies z/OS as a 
+compliant UNIX operating system with UNIX/Linux-style 
+hierarchical file systems.
